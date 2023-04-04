@@ -295,11 +295,14 @@ figcaption {
 .section {
   padding-top: 176px;
   padding-bottom: 176px;
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 .section.style-top {
   padding-top: 104px;
   padding-bottom: 64px;
+
 }
 
 .section.footer-bottom {
@@ -313,6 +316,8 @@ figcaption {
 
 .section.hero {
   padding-top: 86px;
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 .content-center {
