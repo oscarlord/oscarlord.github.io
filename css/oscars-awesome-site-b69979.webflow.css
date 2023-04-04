@@ -193,7 +193,7 @@ p {
 }
 
 a {
-  color: #3e6af2;
+  color: #FF6000;
   text-decoration: underline;
 }
 
@@ -289,7 +289,7 @@ figcaption {
 }
 
 .nav-link.w--current {
-  color: #3e6af2;
+  color: #FF6000;
 }
 
 .section {
