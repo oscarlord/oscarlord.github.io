@@ -1960,6 +1960,7 @@ figcaption {
 .section-footer {
   background-color: var(--linear-two);
   width: 100%;
+  height: 100vh;
   position: sticky;
   bottom: 0;
   overflow: hidden;
